@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 874016327
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2464850cb619dae050374936cca287e5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 21f0dc8ebad690f009368069428e0a1a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Sprites/duck_outline_target_white.png
+- Assets/Sprites/duck_outline_target_yellow.png
+- Assets/Sprites/duck_outline_target_brown.png
+- Assets/Sprites/duck_outline_white.png
+Dependencies: []
